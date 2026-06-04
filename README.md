@@ -9,7 +9,7 @@ Beleza, cosméticos e cuidados pessoais ✨ Loja especializada em Fibras, Cabelo
 <!-- CABELO HUMANO -->
 
 <div class="produto">
-<img src="imagens/cabelo1.jpg">
+<img src="img/ana.jpg">
 <h3>Cabelo Humano Brasileiro 40cm</h3>
 <p>100% natural</p>
 <span>R$ 499,90</span>
